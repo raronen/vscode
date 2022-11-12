@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/raronen/vscode/issues"
   },
-  "homepage": "https://github.com/raronen/vscode#readme"
+  "homepage": "https://github.com/raronen/vscode#readme",
+  "dependencies": {
+    "@draft/kcmexecutor": "*"
+  }
 }

@@ -1,1 +1,7 @@
-Git History Diff - View Branch Diff
+Ctrl + Shift + X
+
+Git History Diff - View Branch Diff. (Create new branch, commit, reload)
+
+Bookmarks
+
+Search node_modules
