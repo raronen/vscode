@@ -5,3 +5,7 @@ Git History Diff - View Branch Diff. (Create new branch, commit, reload)
 Bookmarks
 
 Search node_modules
+
+Task Buttons
+
+https://x-team.com/blog/best-vscode-extensions/#settings-sync

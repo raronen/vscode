@@ -1,0 +1,13 @@
+Dot on MSAzure
+
+tasks
+
+Private Preview:
+https://vscode.dev/
+https://vscode.dev/azurerepos/msazure/One/AM-LogsService?version=GBmaster
+
+Azure in VSCode:
+https://code.visualstudio.com/docs/azure/extensions
+
+Write your own extension:
+https://code.visualstudio.com/api
