@@ -1,3 +1,5 @@
 // Create Launch.json
 
-console.log("HelloWorld");
+const myvar10 = "HelloWorld";
+
+console.log(myvar10);
